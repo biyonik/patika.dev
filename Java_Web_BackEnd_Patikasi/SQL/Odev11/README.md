@@ -1,26 +1,17 @@
-## Soru: film tablosunda film uzunluğu length sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
-### Cevap: 
-SELECT COUNT(*) FROM film
-WHERE length  >= (
-	SELECT AVG(length) FROM film
-)
+## Soru: actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
+### Cevap: (SELECT first_name FROM actor) UNION (SELECT first_name FROM customer)
 <hr/>
 
-## Soru: film tablosunda en yüksek rental_rate değerine sahip kaç tane film vardır?
-### Cevap: 
-SELECT * FROM film
-WHERE rental_rate = (SELECT MAX(rental_rate) FROM film) ORDER BY rental_rate ASC
+## Soru: actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
+### Cevap: (SELECT first_name FROM actor) INTERSECT (SELECT first_name FROM customer)
 <hr/>
 
-## Soru: film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
-### Cevap: 
-SELECT * FROM film
-WHERE rental_rate = (SELECT MIN(rental_rate) FROM film) AND replacement_cost = (SELECT MIN(replacement_cost) FROM film) 
+## Soru: actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
+### Cevap: (SELECT first_name FROM actor) EXCEPT (SELECT first_name FROM customer)
 <hr/>
 
-## Soru: payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
-### Cevap: 
-SELECT customer.first_name, customer.last_name, (SELECT COUNT(payment.*) FROM payment WHERE payment.customer_id = customer.customer_id) AS payment_count
-FROM customer
-ORDER BY payment_count DESC
+## Soru: İlk 3 sorguyu tekrar eden veriler için de yapalım.
+### Cevap: (SELECT first_name FROM actor) UNION ALL (SELECT first_name FROM customer)
+### Cevap: (SELECT first_name FROM actor) INTERSECT ALL (SELECT first_name FROM customer)
+### Cevap: (SELECT first_name FROM actor) EXCEPT ALL (SELECT first_name FROM customer)
 <hr/>
