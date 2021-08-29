@@ -1,4 +1,4 @@
-## Soru: film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
+## Soru: test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
 ### Cevap: SELECT rating FROM film GROUP BY rating
 <hr/>
 
