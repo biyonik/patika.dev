@@ -1,0 +1,16 @@
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.AssemblyInfo.cs
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/Degiskenler
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/Degiskenler.deps.json
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/Degiskenler.runtimeconfig.json
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/Degiskenler.runtimeconfig.dev.json
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/Degiskenler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/ref/Degiskenler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/bin/Debug/net5.0/Degiskenler.pdb
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/ref/Degiskenler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.pdb
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/obj/Debug/net5.0/Degiskenler.genruntimeconfig.cache
