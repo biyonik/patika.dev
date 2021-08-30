@@ -1,0 +1,16 @@
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.AssemblyInfo.cs
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/Operatorler
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/Operatorler.deps.json
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/Operatorler.runtimeconfig.json
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/Operatorler.runtimeconfig.dev.json
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/Operatorler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/ref/Operatorler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/bin/Debug/net5.0/Operatorler.pdb
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/ref/Operatorler.dll
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.pdb
+/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Operatorler/obj/Debug/net5.0/Operatorler.genruntimeconfig.cache
