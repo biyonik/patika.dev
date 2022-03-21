@@ -1,0 +1,15 @@
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.exe
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.deps.json
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.runtimeconfig.json
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.pdb
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.csproj.AssemblyReference.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.AssemblyInfoInputs.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.AssemblyInfo.cs
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\refint\TryCatchFinally.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.pdb
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.genruntimeconfig.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TryCatchFinally\obj\Debug\net6.0\ref\TryCatchFinally.dll
