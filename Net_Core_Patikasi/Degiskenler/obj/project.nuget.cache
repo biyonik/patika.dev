@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VzTbgMdlp611FY2Lhh43ROFbG5J4Ms4GGFcNYq57Zobm/uHd9Sbje+6Td0r9mFWodmTivOf8EBrom5TCRaTeBQ==",
+  "dgSpecHash": "XHy9xU4bax5bBO3uBQxSRhTn288iaS9kDL8LiMowtphh47T9vDvloqqhAtGJfLWGoWaSD7N6MoIHuamDLIYY4A==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/patika.dev/Net_Core_Patikasi/Degiskenler/Degiskenler.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "i:\\Projects\\patika.dev\\Net_Core_Patikasi\\Degiskenler\\Degiskenler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

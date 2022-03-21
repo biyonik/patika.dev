@@ -1,0 +1,15 @@
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\bin\Debug\net6.0\TurDonusumu.exe
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\bin\Debug\net6.0\TurDonusumu.deps.json
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\bin\Debug\net6.0\TurDonusumu.runtimeconfig.json
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\bin\Debug\net6.0\TurDonusumu.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\bin\Debug\net6.0\TurDonusumu.pdb
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.csproj.AssemblyReference.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.AssemblyInfoInputs.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.AssemblyInfo.cs
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.csproj.CoreCompileInputs.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\refint\TurDonusumu.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.pdb
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\TurDonusumu.genruntimeconfig.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\TurDonusumu\obj\Debug\net6.0\ref\TurDonusumu.dll
