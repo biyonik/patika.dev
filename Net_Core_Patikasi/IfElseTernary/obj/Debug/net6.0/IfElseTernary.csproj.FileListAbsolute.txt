@@ -1,0 +1,15 @@
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\bin\Debug\net6.0\IfElseTernary.exe
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\bin\Debug\net6.0\IfElseTernary.deps.json
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\bin\Debug\net6.0\IfElseTernary.runtimeconfig.json
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\bin\Debug\net6.0\IfElseTernary.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\bin\Debug\net6.0\IfElseTernary.pdb
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.csproj.AssemblyReference.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.AssemblyInfoInputs.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.AssemblyInfo.cs
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.csproj.CoreCompileInputs.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\refint\IfElseTernary.dll
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.pdb
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\IfElseTernary.genruntimeconfig.cache
+I:\Projects\patika.dev\Net_Core_Patikasi\IfElseTernary\obj\Debug\net6.0\ref\IfElseTernary.dll
